@@ -1,0 +1,9 @@
+Command List:
+
+ls
+kill
+ping
+init
+mkdir
+wget
+cd
